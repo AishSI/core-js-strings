@@ -20,6 +20,7 @@
  *   getStringLength(undefined) => 0
  */
 function getStringLength(/* value */) {
+  //start task
   throw new Error('Not implemented');
 }
 
